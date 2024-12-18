@@ -9,7 +9,7 @@
 [![Github](https://img.shields.io/github/followers/stinkdinky?label=Follow&style=social)](https://github.com/stinkdinky)
 
 - 💻 I do writeups over at [**GitBook**](https://stinkydinky.gitbook.io/stinkydinkys-writeups) github organization. Check it out for writeups mainly on HacktheBox machines. 
-- 🤔 I’m currently reading [SOC Analyst] by HTB.
+- 🤔 I’m currently doing [CBBH] by HTB.
 - 📫 How to reach me: Discord @stinkdinky.
 
 
