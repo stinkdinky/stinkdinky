@@ -1,14 +1,3 @@
-# StinkDinky
-
-
-
-
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://stinkydinky.gitbook.io/stinkydinkys-writeups)](https://stinkydinky.gitbook.io/stinkydinkys-writeups)
-[![Github](https://img.shields.io/github/followers/stinkdinky?label=Follow&style=social)](https://github.com/stinkdinky)
-
-- 💻 I do writeups over at [**GitBook**](https://stinkydinky.gitbook.io/stinkydinkys-writeups) github organization. Check it out for writeups mainly on HacktheBox machines. 
-- 🤔 I’m currently doing [CBBH] by HTB.
-- 📫 How to reach me: Discord @stinkdinky.
 
 
 ### 🖥 Skills
